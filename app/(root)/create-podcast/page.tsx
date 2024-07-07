@@ -1,8 +1,10 @@
 import React from "react"
 
-const CreatePodcast = () =>{
+const CreatePodcast = () => {
     return (
-        <p className="text-white-1"> CreatePodcast </p>
+        <div>
+            <h1 className="text-20 font-bold text-white-1">CreatePodcast</h1>
+        </div>
     )
 }
 export default CreatePodcast;
