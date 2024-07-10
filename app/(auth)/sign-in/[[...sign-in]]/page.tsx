@@ -1,5 +1,4 @@
-import React from 'react'
-import {SignIn} from "@clerk/nextjs";
+import { SignIn } from '@clerk/nextjs'
 
 const Page = () => {
     return (
@@ -8,4 +7,5 @@ const Page = () => {
         </div>
     )
 }
-export default Page;
+
+export default Page
